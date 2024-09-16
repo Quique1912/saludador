@@ -1,7 +1,16 @@
 # Saludator
 
 ## Descripción
-Aplicación web que te saluda por pantalla
+Ejercicio de una aplicación web que te saluda por pantalla
+
+## Tecnologías
+- html
+- css
+- js (vanilla)
+
+
+## Deploy en github
+https://quique1912.github.io/saludador/
 
 ## Etapas
 
